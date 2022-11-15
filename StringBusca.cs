@@ -4,27 +4,19 @@ namespace JsonFakePlaceHolderTeste
 {
     public class StringBusca
     {
-        public string PlaceHolder(string texto, StringExecutor stringExecutor, Dictionary<string, string> substituicoes)
+        public string PlaceHolder(string texto, StringExecutor stringExecutor)
         {
             var pattern = @"\[(.*?)\]";
             MatchCollection matches = Regex.Matches(texto, pattern);
-
+            var substituicoes = new Dictionary<string, string>();
             foreach (Match m in matches)
             {
                 var chave = m.Groups[1].ToString().ToUpper();
 
-                Console.WriteLine($"Passou aqui {substituicoes.Count()} {chave}");
-
-                if (stringExecutor.Chave.Equals(chave) && substituicoes.ContainsKey(chave) == false)
+                if (stringExecutor.Chave.Equals(chave))
                 {
                     substituicoes.Add(chave, stringExecutor.Metodo.Invoke());
                 }
-
-            }
-
-            foreach (var item in substituicoes)
-            {
-                Console.WriteLine($"{item.Key} - {item.Value}");
             }
 
             return Regex.Replace(texto, pattern, match =>

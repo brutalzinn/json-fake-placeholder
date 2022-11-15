@@ -5,11 +5,10 @@
         public string CriarJsonFake(string json, List<StringExecutor> listaExecutores)
         {
             var jsonFalso = json;
-            var substituicoes = new Dictionary<string, string>();
 
             foreach (var executor in listaExecutores)
             {
-                jsonFalso = PlaceHolder(jsonFalso, executor, substituicoes);
+                jsonFalso = PlaceHolder(jsonFalso, executor);
             }
 
             return jsonFalso;

@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\bin\Debug\net7.0\JsonFakePlaceHolderTeste.exe
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\bin\Debug\net7.0\JsonFakePlaceHolderTeste.deps.json
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\bin\Debug\net7.0\JsonFakePlaceHolderTeste.runtimeconfig.json
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\bin\Debug\net7.0\JsonFakePlaceHolderTeste.dll
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\bin\Debug\net7.0\JsonFakePlaceHolderTeste.pdb
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.AssemblyInfo.cs
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.dll
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\refint\JsonFakePlaceHolderTeste.dll
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.pdb
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\JsonFakePlaceHolderTeste.genruntimeconfig.cache
+C:\Users\rober\source\repos\JsonFakePlaceHolderTeste\obj\Debug\net7.0\ref\JsonFakePlaceHolderTeste.dll
