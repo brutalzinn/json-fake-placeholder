@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using JsonFakePlaceHolderTeste;
 
-var texto = "Olá, mundo [TESTE] . [FRASERICK] [CNPJ]";
+var texto = "Olá, mundo [TESTE] . [FRASERICK]";
 var criadorJsonFalso = new StringCriadorJson();
 
 var listaExecutors = new List<StringExecutor>()
